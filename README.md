@@ -28,13 +28,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/V8HPQSz.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I attempted to add a settings screen where users could change the currency, background color, tip percentage, etc. However, Xcode would raise errors when running the project. This is why I decided to add the slider tip percentage in the main view controller instead.
 
 ## License
 
