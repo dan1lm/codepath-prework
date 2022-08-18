@@ -33,10 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 
 
-## Notes
-
-I attempted to add a settings screen where users could change the currency, background color, tip percentage, etc. However, Xcode would raise errors when running the project. This is why I decided to add the slider tip percentage in the main view controller instead.
-
 ## License
 
     Copyright [yyyy] [name of copyright owner]
